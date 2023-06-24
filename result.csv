@@ -1,0 +1,6 @@
+name,calories,season,seeds,req peel,type,Diet
+Apple,30,summer,seeded,no,Berries,Good for Salad
+Apricots,50,spring,seeded,no,Berries,Good for Salad
+Watermelon,80,summer,seeded,yes,Berries,Not Good for Salad
+Oranges,50,winter,seeded,yes,Berries,Good for Salad
+Cranberries,60,autumn,not seeded,no,Berries,Not Good for Salad
